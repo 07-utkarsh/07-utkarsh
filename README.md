@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++**
+- 
 
 - 📫 How to reach me **https://www.linkedin.com/in/utkarsh-sharma-8464b4222/**
+- Email-: **utkarshsharma80777@gmail.com**
 
 - ⚡ Fun fact **Everything was difficult until I was done with it.**
 
